@@ -2,7 +2,7 @@
     <!-- دایره پس‌زمینه فیروزه‌ای -->
     <circle cx="16" cy="16" r="16" fill="#26A17B"/>
     <!-- حلقه سفید -->
-    <circle cx="16" cy="16" r="10" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="16" cy="16" r="8" fill="none" stroke="#FFFFFF" stroke-width="2"/>
     <!-- حرف T سفید -->
-    <text x="50%" y="50%" font-family="Arial" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dy=".3em">T</text>
+    <text x="50%" y="50%" font-family="Arial" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dy=".3em">T</text>
 </svg>
